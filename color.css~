@@ -2,8 +2,5 @@
   background-color: green;
 }
 .pendiente{
-  background-color: orange;
-}
-.mora{
   background-color: red;
 }
