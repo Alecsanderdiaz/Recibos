@@ -1,6 +1,0 @@
-.pagado{
-  background-color: green;
-}
-.pendiente{
-  background-color: red;
-}
